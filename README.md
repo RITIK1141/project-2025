@@ -1,4 +1,4 @@
- Library Management System
+Library Management System-
 The Library Management System is a web-based platform developed to simplify and streamline the management of library resources. It is designed to assist both students and faculty in performing key library tasks such as searching for books, checking availability, borrowing, and returning items.
 The system enhances the user experience by providing an interactive, easy-to-navigate interface. Key functionalities include:
 Book Search: Allows users to search for books by various criteria such as title, author, or genre.
